@@ -1,0 +1,104 @@
+<html>
+<head>
+<title>check in form</title>
+<link rel="icon" type="image/png" href="head.png">
+	<link rel="stylesheet" type="text/css" href="bok.css"/>
+</head>
+<body>
+<script>
+function myfunction()
+{
+   alert("your room is booked.")
+}
+</script>
+	<div id="b" class="s11">
+		<div class="sc">
+			<div class="main">
+				<div class="r">
+					<div class="bk">
+						<form method="post">
+							<div class="r">
+								<div class="c6">
+									<div class="fg">
+										<span class="fl">Name</span>
+										<input class="fc" type="text" required>
+									</div>
+								</div>
+								<div class="c6">
+								<div class="fg">
+										<span class="fl">Branch </span>
+										<input class="fc" type="text" required>
+									</div>
+								</div>
+							</div>
+							<div class="r">
+								<div class="c3">
+									<div class="fg">
+										<span class="fl"> Checked in </span>
+										<input class="fc" type="date" required>
+									</div>
+								</div>
+								<div class="c3">
+									<div class="fg">
+										<span class="fl">Checked out</span>
+										<input class="fc" type="date" required>
+									</div>
+								</div>
+								<div class="c3">
+									<div class="fg">
+										<span class="fl">Date of Check in</span>
+										<input class="fc" type="date" required>
+									</div>
+								</div>	
+								<div class="c2">
+									<div class="fg">
+										<span class="fl">Adults (18+)</span>
+										<select class="fc">
+										    <option>0</option>
+											<option>1</option>
+											<option>2</option>
+											<option>3</option>
+										</select>
+										<span class="sa"></span>
+									</div>
+								</div>
+								<div class="c2">
+									<div class="fg">
+										<span class="fl">Children (0-17)</span>
+										<select class="fc">
+											<option>0</option>
+											<option>1</option>
+											<option>2</option>
+											<option>3</option>
+										</select>
+										<span class="sa"></span>
+									</div>
+								</div>
+							</div>
+							<div class="r">
+								<div class="c3">
+									<div class="fg">
+										<span class="fl">Type of room</span>
+										<select class="fc">
+										    <option>Select</option>
+											<option>single room</option>
+											<option>Double room</option>
+											<option>Dulex room</option>
+										</select>
+										<span class="sa"></span>
+									</div>
+								</div>
+								<div class="c3">
+									<div class="fb">
+										<button class="sb" onclick="myfunction()">Confirm</button>
+									</div>
+								</div>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

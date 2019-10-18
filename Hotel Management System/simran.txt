@@ -1,0 +1,89 @@
+Intoduction
+The project, Hotel Management System is a web-based application that allows 
+the hotel manager to handle all hotel activities online. Interactive GUI and the ability to manage various hotel bookings and rooms make this system very flexible and convenient. 
+The hotel manager is a very busy person and does not have the time to sit and manage the entire activities manually on paper. This application gives him the power and flexibility to manage the entire system from a single online system.
+ Hotel management project provides room booking, staff management and other necessary hotel management features. The system allows the manager to post available rooms in the system. 
+Customers can view and book room online. Admin has the power of either approving or disapproving the customer’s booking request. Other hotel services can also be viewed by the customers and can book them too.
+ The system is hence useful for both customers and managers to portable manage the hotel activities.
+
+Description
+The HOMAS (Hotel Management System) we are developing is a web-based management system designed as a primary tool doing the main and admin tasks (booking, room reservation, managing staff, etc.) for every hotel.
+The project is developed with the hope of us to bring the friendliest and most efficient way of management in order to alleviate the workload of hotel managers.
+
+Website:https://sites.google.com/site/onlinehotelmanage/project-description-1
+
+
+Advantages
+Sometime it happens that the rooms get booked soon when one visits the place therefore user can make advance booking using this system.
+It saves user time in searching a room.
+The system is useful as it calculates an exact cost of rooms for requested number of days.
+It saves organization resources and expenses.
+This system is effective and saves time and cost of users.
+
+
+Disadvantages
+The booking process usually requires a customer identity, which the system cannot detect.
+It requires a reliable internet connection.
+
+
+
+
+
+HOTEL MANAGEMENT SYSYTEMS
+
+Abstract:
+A Hotel management system is a computerized management system. This system  keeps the records of hardware assets besides software of this organization. The proposed system will keep a track of Workers, Recidents,  Accounts and generation of report regarding the present status. This project has GUI based software that will help in storing, updating and retrieving the information through various user-friendly menu-driven modules.The project “Hotel Management System” is aimed to develop to maintain the day-to-day state of admission/Vacation of Recidents, List of Workers , payment details etc. Main objective of this project is to provide solution for hotel to manage most there work using computerized process. This software application will help admin to handle customers information, room allocation details, payment details, billing information.etc.  Detailed explanation about modules and design are provided in project documentation. The existing system is a manually maintained system. All the Hotel records are to be maintained for the details of each customers, Fee details, Room Allocation , Attendance etc. All these details are entered and retrieved manually,because of this there are many disadvantages like Time Consuming ,updating process, inaccuracy of data.For avoiding this we introduced or proposed a new system in proposed system the computerized version of the existing system. provides easy and quick access over the data. In hotel operations, procurement of goods and services is the most vulnerable area which could lead to malpractice because hotels spend substantial amounts on goods (such as food and beverage, utensils, toiletries etc.) and services (such as cleaning and security services, group insurance services etc.). Besides making sure that purchases are value for money, it is important for the hotel management to establish a fair and competitive procurement system with sufficient safeguards to prevent abuse by unscrupulous staff. As hotel maintenance and renovation also incur considerable expenses and there is much room for corrupt manipulation in the letting and supervision of works contractors
+
+
+There are following main objectives of the Hotel:
+
+•	Keeping records of admission of customers.
+•	facilities provided by Hotel are fully utilized in effective and efficient manner.
+Keeping the records of salary structure of the workers of Hotel by billing approach
+
+
+
+
+
+
+
+Existing System:
+In the existing manual system a lot of time is spent in communicating the information across different branches.There is a need for an integrated automated system, which has some centralized control over the entire process. Conventional System makes use of huge amounts of paper for recording transactions. The existing system is a manually maintained system. All the Hotel records are to be maintained for the details of each customers, Fee details, Room Allocation , Attendance etc. All these details are entered and retrieved manually.
+
+Disadvantages:
+
+1.	Time Consuming .
+2.	updating process.
+3.	inaccuracy of data .
+
+
+
+
+
+
+
+
+
+
+
+
+A Hotel management system is a computerized management system. This management system has been developed to form whole management system including Employees, workers , , recidents, Bills, and Complains etc. This system also keeps the records of hardware assets besides software of this organization. The proposed system will keep a track of Employees, workers, recidents, Accounts and generation of report regarding the present status. This project has GUI based software that will help in storing, updating and retrieving the information through various user-friendly menu-driven modules.
+
+OBJECTIVES OF THE PROJECT
+
+
+The project “Hotel Management System” is aimed to develop to maintain the day-to-day state of admission/vacation of recidents, List of workers , List of Bills etc.
+There are following main objectives of the hotel:
+
+
+•	Records of salary structure of the employees of Hotelby billing approach. Keeping records of admission of recident.
+•	Keeping user satifaction as atmost priority.
+•	Scheduling the allotment of user with room  to make it convenient for user.
+•	Scheduling the services of workers  and properly so that facilities provided by Hotel are fully utilized in effective and efficient manner.
+•	Keeping records of user registration details  accurately arranged order so that the treatment of Customers becomes quick and satisfactory.
+•	Keeping details about the users, their needs and paymentdetail  reports etc.
+•	Keeping the best hotel facilities . 
+•	Keeping the
+
+Conclusion:  The conclusion of this project is A Hotel management system is a computerized management system. This system  keeps the records of hardware assets besides software of this organization. The proposed system will keep a track of Workers, Recidents,  Accounts and generation of report regarding the present status. This project has GUI based software that will help in storing, updating and retrieving the information through various user-friendly menu-driven modules.The project “Hotel Management System” is aimed to develop to maintain the day-to-day state of admission/Vacation of Recidents, List of Workers , payment details etc. Main objective of this project is to provide solution for hotel to manage most there work using computerized process. This software application will help admin to handle customers information, room allocation details, payment details, billing information.etc.  Detailed explanation about modules and design are provided in project documentation. The existing system is a manually maintained system. All the Hotel records are to be maintained for the details of each customers, Fee details, Room Allocation , Attendance etc. All these details are entered and retrieved manually,because of this there are many disadvantages like Time Consuming ,updating process, inaccuracy of data.For avoiding this we introduced or proposed a new system in proposed system the computerized version of the existing system. provides easy and quick access over the data.
+

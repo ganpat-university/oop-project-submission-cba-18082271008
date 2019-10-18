@@ -1,0 +1,32 @@
+div.header
+{
+ body
+{
+	background-color: papayawhip;
+	background-image:url('head.png');
+	background-size: 200px 150px;
+	background-repeat: no-repeat;
+	opacity: 1;
+}
+.hed
+{
+	text-align: center;
+	text-shadow: 2px 2px black;
+	
+	text-decoration: underline;
+}
+.sub
+{
+	text-align: center;
+	text-shadow: 1px 1px black;
+	
+}
+font
+{
+	font-family:Castellar;
+}
+.hed a:hover
+{
+	color:coral;
+}
+}
